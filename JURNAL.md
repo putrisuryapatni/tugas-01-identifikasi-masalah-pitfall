@@ -4,8 +4,11 @@
 - Peserta: Ida Ayu Putri S. B. dan I Wayan Juanesa R. P.
 - Poin diskusi: 
     - Menentukan pitfall
-    - 
-- Perbedaan pendapat (jika ada): ...
+    - Tugek nemu pitfall the network is reliable dan latency is zero
+    - Di bagian yang "# network is always reliable, no need for retry" langsung ketahuan kalau ada yang salah, karena pada soal dikatakan adanya kendala pada aplikasi tapi ini malah dibilang selalu berjalan dengan balik
+    - Pada bagian "tidak ada timeout sama sekali pada pemanggilan antar service" juga langsung ketahuan bahwa ada yang salah di latency nya
+    - Ryan nemu ...
+- Perbedaan pendapat (jika ada): sependapat
 
 ## [Tanggal diskusi 2]
 - ...
